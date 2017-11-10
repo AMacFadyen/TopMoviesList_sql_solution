@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TopMoviesList</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="add_movie_text">Enter movie details below.</string>
+    <string name="rank">Rank: </string>
+    <string name="title">Title: </string>
+    <string name="year">Year: </string>
+    <string name="add_button">Add Movie</string>
+    <string name="delete_button">Delete</string>
+</resources>
